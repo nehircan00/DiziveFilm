@@ -1,0 +1,115 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 20rem;
+    height: 2rem;
+}
+
+select{
+    width: 20rem;
+    height: 3rem;
+}
+
+.vh{
+    color:#fff;
+    border: thin solid rgb(255, 255, 255);
+}
+.me{
+    color:#000;
+    border: thin solid #fff;
+}
+.ge{
+    color:#fff;
+    border: thin solid rgb(0, 0, 0);
+}
+.fo{
+     color:#fff;
+    border: thin solid rgb(0, 0, 0);
+}
+.or{
+    color:#fff;
+    border: thin solid #fff;
+}
+
+
+.at{
+    color:#fff;
+    border: thin solid rgb(255, 255, 255);
+}
+.ami{
+    color:rgb(14, 13, 13);
+    border: thin solid rgb(15, 14, 14);
+}
+.ig{
+    color:#fff;
+    border: thin solid rgb(255, 255, 255);
+}
+.ya{
+    color:#fff;
+    border: thin solid rgb(0, 0, 0);
+}
+.ma{
+    color:#fff;
+    border: thin solid rgb(0, 0, 0);
+}
+
+
+.pa{
+    color:#fff;
+    border: thin solid rgb(85, 71, 71);
+}
+.km{
+    color:rgb(143, 132, 132);
+    border: thin solid rgb(105, 91, 91);
+}
+.du{
+    color:#fff;
+    border: thin solid rgb(0, 0, 0);
+}
+.ti{
+    color:rgb(192, 161, 161);
+    border: thin solid rgb(156, 136, 136);
+}
+.de{
+    color:#fff;
+    border: thin solid rgb(71, 67, 67);
+}
+
+
+.hs{
+    color:rgb(255, 255, 255);
+    border: thin solid rgb(77, 61, 61);
+}
+.aş{
+    color:rgb(116, 96, 96);
+    border: thin solid rgb(58, 58, 58);
+}
+.kmu{
+    color:rgb(105, 88, 88);
+    border: thin solid rgb(46, 41, 41);
+}
+.ats{
+    color:rgb(124, 94, 94);
+    border: thin solid rgb(77, 69, 69);
+}
+.kc{
+    color:rgb(90, 70, 70);
+    border: thin solid rgb(90, 78, 78);
+}
+
+.normal{
+    background-color: #fff;
+    color: #000;
+}
